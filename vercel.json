@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://administrativo.amaxoniaerp.com/$1"
+ }
+  ]
+}
